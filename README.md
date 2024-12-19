@@ -54,14 +54,3 @@ select * from coursesData;
 
 ##
 ---
-
-### Instructions to Add It to Your README
-1. Open the `README.md` file in a text editor.
-2. Copy the above content.
-3. Paste it into the file.
-4. Save the changes.
-5. Add the file to your Git repository:
-   ```bash
-   git add README.md
-   git commit -m "Added database setup instructions"
-   git push origin main```
